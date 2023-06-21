@@ -1,4 +1,4 @@
-# sortingVisualization
+# Sorting Visualization
 
 Visualization of Sorting algorithms in Java
 Planned to have:    
