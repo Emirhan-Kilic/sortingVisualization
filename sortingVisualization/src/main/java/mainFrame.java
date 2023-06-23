@@ -13,7 +13,7 @@ public class mainFrame {
 		mainFrameOfApp.setSize(1240, 768);
 		mainFrameOfApp.setLocationRelativeTo(null);
 		mainFrameOfApp.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		mainFrameOfApp.getContentPane().add(new JPanel());
+		mainFrameOfApp.getContentPane().add(new mainPage().getMainMenuJpanel());
 		mainFrameOfApp.setVisible(true);
 	}
 }
